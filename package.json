@@ -1,0 +1,33 @@
+{
+  "name": "ctx-render-grid-lines",
+  "version": "0.0.0",
+  "description": "plot grid lines in html5 canvas",
+  "main": "ctx-render-grid-lines.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tmpvar/ctx-render-grid-lines.git"
+  },
+  "keywords": [
+    "2d",
+    "canvas",
+    "html5",
+    "CanvasRenderingContext2D",
+    "grid",
+    "gridlines",
+    "pattern",
+    "graph"
+  ],
+  "author": "Elijah Insua <tmpvar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmpvar/ctx-render-grid-lines/issues"
+  },
+  "homepage": "https://github.com/tmpvar/ctx-render-grid-lines",
+  "devDependencies": {
+    "ctx-translate-center": "^1.0.0",
+    "tape": "^4.0.0"
+  }
+}
