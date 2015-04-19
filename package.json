@@ -1,6 +1,6 @@
 {
   "name": "ctx-render-grid-lines",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "plot grid lines in html5 canvas",
   "main": "ctx-render-grid-lines.js",
   "scripts": {
